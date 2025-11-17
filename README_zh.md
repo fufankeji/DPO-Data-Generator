@@ -9,6 +9,10 @@
 
 AutoToolDPO 是一个**自动化生成 Agent 工具调用 DPO 数据集**的系统。通过 LLM 自动生成 chosen（正确调用）和 rejected（错误调用）对比数据，将数周的人工标注工作缩短到几小时。
 
+
+https://github.com/user-attachments/assets/90078b8c-c9ba-47e5-bb8a-7d824caddf3c
+
+
 ### 核心特性
 
 - 🎯 **自动化生成**：输入工具定义，自动生成 DPO 训练数据
