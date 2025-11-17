@@ -9,6 +9,10 @@
 
 AutoToolDPO is an automated system for generating Agent tool-calling DPO datasets. By using LLMs to automatically create pairs of chosen (correct calls) and rejected (incorrect calls), it compresses weeks of manual labeling into just hours.
 
+
+https://github.com/user-attachments/assets/175bc1ab-79fa-491a-a6e9-37c35b4339f7
+
+
 ### Key Features
 
 - 🎯 **Automated synthesis**: Provide tool definitions and automatically generate DPO training data
